@@ -4,8 +4,7 @@
 Our demo is at https://chren.cs.unc.edu/. 
 However, to avoid misusing, we have not opened it to the public yet. 
 
-If you are an Cherokee-English expert and want to participate in our human-in-the-loop development,
-do not hesitate to contact us (Shiyue Zhang, shiyue At cs.unc.edu).
+If you are an Cherokee-English expert and want to participate in our human-in-the-loop development, do not hesitate to contact us (Shiyue Zhang, shiyue At cs.unc.edu).
 
 ### Local Setup
 
